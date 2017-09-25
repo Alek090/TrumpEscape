@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ gameIntro()
+comment2.params=
+comment2.target=void\ character()
+comment3.params=
+comment3.target=void\ startgame()
+comment4.params=
+comment4.target=void\ room1()
+comment5.params=
+comment5.target=void\ room1b()
+comment6.params=
+comment6.target=void\ room2c()
+numComments=7
